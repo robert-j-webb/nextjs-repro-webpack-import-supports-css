@@ -1,4 +1,4 @@
-/** Add your relevant code here for the issue to reproduce */
+import "./import.css";
 export default function Home() {
-  return null;
+  return <h1>Should be red text</h1>;
 }
